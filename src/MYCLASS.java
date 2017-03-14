@@ -1,4 +1,4 @@
 
 public class MYCLASS {
-		String welcome = "HELLO OT DENISKI";
+		String welcome = "HELLO OT DENISKI232432";
 }
